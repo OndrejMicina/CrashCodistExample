@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1.MyServices
 {
-    public class TestClass
+    public class NewClass
     {
         public void someVoid()
         {
